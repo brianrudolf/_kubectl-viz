@@ -1,3 +1,5 @@
+## Deprecated for refactor
+
 # kubectl-viz
 A kubectl plugin that provides a visual output for `get` commands
 
